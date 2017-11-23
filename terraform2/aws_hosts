@@ -1,0 +1,4 @@
+[dev] 
+52.15.120.39 
+[dev:vars] 
+s3code=s3-bucket-aze00 
